@@ -1,0 +1,19 @@
+%dw 2.0
+
+type auto_9b2b92c2_6c61_4b43_accb_2220ac07bf1e_Input_Payload = {
+  pincode: Number, 
+  address: String, 
+  city: String, 
+  ID?: Number, 
+  pricePerDay: Number, 
+  hotelName: String, 
+  emptyRooms: Number, 
+  room: {
+    bedSize: String, 
+    temperatureControl: Boolean, 
+    "type": String, 
+    _?: Any
+  }, 
+  _?: Any
+}
+

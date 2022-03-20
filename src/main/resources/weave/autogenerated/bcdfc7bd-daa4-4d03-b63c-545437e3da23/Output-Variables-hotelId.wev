@@ -1,0 +1,4 @@
+%dw 2.0
+
+type auto_bcdfc7bd_daa4_4d03_b63c_545437e3da23_Output_Variables_hotelId = Any
+
