@@ -42,6 +42,7 @@
 						<region>us-east-2</region>
 						<!-- <workers>${workers}</workers> -->
 						<workerType>MICRO</workerType>
+						<objectStoreV2>true</objectStoreV2>
 						<properties>
 							<env>prod</env>
 						</properties>
