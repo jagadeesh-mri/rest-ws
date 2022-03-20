@@ -35,8 +35,8 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.4.0</muleVersion>
-						<username>${username}</username>
-						<password>${password}</password>
+						<username>jndrd2003</username>
+						<password>Jndrd2003123</password>
 						<applicationName>oyo-hotels-api-trsd</applicationName>
 						<environment>Sandbox</environment>
 						<region>us-east-2</region>
